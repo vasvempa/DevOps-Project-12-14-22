@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@vasvempa 
-Sonal0409
-/
-04Nov-DevOps-MorningBatch
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-04Nov-DevOps-MorningBatch/04-Nov-2022-GitNotes.md
-@Sonal0409
-Sonal0409 Create 04-Nov-2022-GitNotes.md
-Latest commit b9fae8a on Nov 3
- History
- 1 contributor
-232 lines (127 sloc)  3.93 KB
 
 Install git:
 
@@ -211,17 +183,4 @@ git revert commit id
 
 ls
 git ls-files
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
